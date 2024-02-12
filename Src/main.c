@@ -28,10 +28,21 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 
+/*
+Required Tools
+
+1. cMake cmake version 3.25.1
+2. make GNU Make 4.2.1
+3. arm gcc toolchain  arm-none-eabi-gcc.exe (GNU Arm Embedded Toolchain 10.3-2021.10) 10.3.1 20210824 (release)
+4. openOCD {for flashing}
+5. mingW 
+6. cTools
+*/
+
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
-/* USER CODE BEGIN PD */
+/* USER CODE BEGIN PD *
 
 /* USER CODE END PD */
 
